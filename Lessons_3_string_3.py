@@ -1,0 +1,1 @@
+print('\u00A3', '\u00A3'.encode('latin1'), b'\xA3'.decode('latin1'))        #виводить unicode символи
